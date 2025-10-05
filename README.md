@@ -4,8 +4,8 @@ This is just a silly project I made so I can learn how to write a README.md the 
 
 Hopefully this is readable :smiley_cat: 
 
-[!NOTE]
-I made the instructions for little babies so I can have an idea of what to write
+>[!NOTE]
+>I made the instructions for little babies so I can have an idea of what to write
 
 # HOW TO RUN THIS
 
