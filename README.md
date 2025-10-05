@@ -16,7 +16,7 @@ Hopefully this is readable :smiley_cat:
 
 CD into the directory you put the *quandale folder* in using the *terminal*
 
-example
+### example:
 ```
 cd ~/Downloads
 ```
