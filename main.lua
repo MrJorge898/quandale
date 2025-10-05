@@ -2,7 +2,7 @@ function love.load()
     timer = 1.5
     
     quandale = love.audio.newSource("year.mp3", "stream")
-    icon = love.graphics.newImageData("quandale.ico")
+    icon = love.image.newImageData("quandale.ico")
 
     quandale:play()
 
