@@ -2,6 +2,11 @@
 
 This is just a silly project I made so I can learn how to write a README.md the program itself isn't really *that* good
 
+Hopefully this is readable :smiley_cat:
+
+
+
+
 # HOW TO RUN THIS
 
 >[!NOTE]
