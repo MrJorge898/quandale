@@ -17,6 +17,6 @@ function love.update(dt)
     end
 end
 
-function.love.draw()
+function love.draw()
     love.graphics.setBackground(0, 0, 0)
 end
