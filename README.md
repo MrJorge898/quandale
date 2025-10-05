@@ -1,6 +1,6 @@
 # quandale
 
-this is just a silly project I made so I can learn how to write a README.md the program itself isn't really *that* good
+This is just a silly project I made so I can learn how to write a README.md the program itself isn't really *that* good
 
 # HOW TO RUN THIS
 
@@ -9,15 +9,15 @@ this is just a silly project I made so I can learn how to write a README.md the 
 
 ## LINUX
 
-cd into the directory you put the folder in
+Cd into the directory you put the folder in
 
 >[!WARNING]
 >DO NOT CD INSIDE THE FOLDER BECAUSE IT WON'T WORK
 
-and write:
-'''
+And write:
+```
 love quandale
-'''
+```
 
 or you can just open the release using [Wine](https://www.winehq.org/)
 
