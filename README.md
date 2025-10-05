@@ -1,6 +1,6 @@
 # quandale
 
-This is just a silly project I made so I can learn how to write a README.md the program itself isn't really *that* good
+This is just a silly project I made so I can learn how to write a README.md and how to use github in VS Code the program itself isn't really *that* good
 
 Hopefully this is readable :smiley_cat: 
 
