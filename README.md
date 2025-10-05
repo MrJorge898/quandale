@@ -36,5 +36,5 @@ or you can just open the *release* using [Wine](https://www.winehq.org/)
 Open the folder using [Love2D](https://www.love2d.org/)
 
 >[!NOTE]
-> + You can open the folder through a shortcut of the love.exe file or just drag the folder into the love.exe
-> + or you can just open the exe file on the *release* tab
+>+ You can open the folder through a shortcut of the love.exe file or just drag the folder into the love.exe
+>+ or you can just open the exe file on the *release* tab
