@@ -1,2 +1,2 @@
 # quandale
-This is just for the funny and for testing and learning
+This is just for the funny and for testing and learning how to write a good README.md
