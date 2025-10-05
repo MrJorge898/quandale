@@ -18,5 +18,5 @@ function love.update(dt)
 end
 
 function love.draw()
-    love.graphics.setBackground(0, 0, 0)
+    love.graphics.setBackgroundColor(0, 0, 0)
 end
