@@ -16,7 +16,7 @@ Hopefully this is readable :smiley_cat:
 
 CD into the directory you put the *quandale folder* in using the *terminal*
 
-### example:
+**example:**
 ```
 cd ~/Downloads
 ```
@@ -24,7 +24,7 @@ cd ~/Downloads
 >[!WARNING]
 >DO NOT CD INSIDE THE **QUANDALE FOLDER** BECAUSE IT WON'T *WORK*
 
-And write:
+**And write:**
 ```
 love quandale
 ```
@@ -33,7 +33,7 @@ or you can just open the *release* using [Wine](https://www.winehq.org/)
 
 ## Windows
 
-Open the folder using love2D
+Open the folder using [Love2D](https://www.love2d.org/)
 
 >[!NOTE]
 >You can open the folder through a shortcut of the love.exe file or just drag the folder into the love.exe
