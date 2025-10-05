@@ -4,6 +4,9 @@ function love.load()
     quandale = love.audio.newSource("year.mp3", "stream")
     
     quandale:play()
+
+    love.window.setTitle("It's been a year daddy")
+    love.window.setMode(800, 600, {resizable=false, vsync=1, minwidth=400, minheight=300})
 end
 
 function love.update(dt)
