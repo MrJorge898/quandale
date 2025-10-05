@@ -1,5 +1,5 @@
 function love.load()
-    timer = 5
+    timer = 3
     
     quandale = love.audio.newSource("year.mp3", "stream")
     
